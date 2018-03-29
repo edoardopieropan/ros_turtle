@@ -21,6 +21,8 @@ note: univr_turtle is the package's name
 roslaunch univr_turtle univr_turtle.launch
 ```
 
+Move the turtle by pressing the arrow keys while focusing on the terminal
+
 ## License
 
 This file is part of hello_ros and it is distributed under the terms of the GNU Lesser General Public License (Lesser GPL) <br >
